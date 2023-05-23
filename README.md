@@ -3,7 +3,6 @@
 <div align="center">
   <p>Name: Thomas</p> 
   <p>Country: 🇩🇰</p>
-  <p>Age: 3️⃣0️⃣</p>
   <p>Studying: 🖥️Science</p>
   <p>FullStack Developer</p>
 <br>
